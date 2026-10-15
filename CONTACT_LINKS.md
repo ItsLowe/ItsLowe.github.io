@@ -1,6 +1,6 @@
-# Live portfolio and project links
+# Portfolio and project links
 
-- Portfolio: https://ItsLowe.github.io/
+- Portfolio: https://itslowe.github.io/
 - ATP: https://github.com/ItsLowe/atp-tennis-forecasting
 - Bayesian Chess: https://github.com/ItsLowe/bayesian-chess-performance
 - Dublin GIS: https://github.com/ItsLowe/dublin-green-space-accessibility
@@ -8,4 +8,4 @@
 - LinkedIn: https://www.linkedin.com/in/zhiheng-huang-48a8b2398/
 - Email: lowehzh@gmail.com
 
-The website cards link to all three project repositories. The Writing Sample opens and downloads from `assets/Zhiheng_Huang_Research_Writing_Sample.pdf`.
+The Hainan and financial-security projects are website showcases only and do not have separate project repositories. The Writing Sample opens and downloads from `assets/Zhiheng_Huang_Research_Writing_Sample.pdf`.

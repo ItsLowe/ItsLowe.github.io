@@ -77,6 +77,7 @@ figure { margin: 0; }
   font-size: 0.72rem;
   letter-spacing: 0.04em;
 }
+.name-alias { color: var(--muted); font-size: 0.84em; font-weight: 600; }
 .primary-nav { display: flex; align-items: center; gap: clamp(14px, 2.2vw, 28px); }
 .primary-nav a {
   min-height: 44px;
@@ -116,6 +117,7 @@ figure { margin: 0; }
   letter-spacing: -0.065em;
   line-height: 1.04;
 }
+.hero-alias { display: inline-block; margin-left: 0.08em; color: var(--muted); font-size: 0.58em; font-weight: 550; letter-spacing: -0.04em; white-space: nowrap; vertical-align: 0.12em; }
 .hero-subtitle { margin: 0; color: var(--muted); font-size: clamp(1.16rem, 2vw, 1.5rem); font-weight: 500; }
 .education { margin: 16px 0 0; color: var(--ink); font-size: 0.98rem; }
 .hero-actions, .writing-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; margin-top: 28px; }
@@ -173,6 +175,18 @@ figure { margin: 0; }
   border: 1px solid #dbe3df;
   background: var(--surface);
 }
+.project-award { border-top: 3px solid var(--accent); }
+.role-note { margin-top: -5px; color: var(--accent-dark) !important; font-size: 0.84rem !important; }
+.award-figure { margin-top: 19px; }
+.award-figure img { width: 100%; height: auto; }
+.award-figure figcaption { margin-top: 9px; color: var(--muted); font-size: 0.74rem; line-height: 1.5; }
+.award-facts { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px 18px; margin: 18px 0 0; padding-top: 16px; border-top: 1px solid var(--soft); }
+.award-facts div { min-width: 0; }
+.award-facts dt { margin-bottom: 3px; color: var(--muted); font-size: 0.68rem; font-weight: 750; letter-spacing: 0.06em; text-transform: uppercase; }
+.award-facts dd { margin: 0; color: #34494f; font-size: 0.79rem; line-height: 1.55; overflow-wrap: anywhere; }
+.award-links { display: flex; flex-wrap: wrap; gap: 8px 16px; margin-top: 16px; }
+.award-links a { min-height: 40px; display: inline-flex; align-items: center; padding-block: 7px; font-size: 0.78rem; font-weight: 700; }
+.hainan-figure { margin-top: 19px; }
 .project-featured {
   grid-column: 1 / -1;
   display: grid;
@@ -286,6 +300,8 @@ figure { margin: 0; }
   .writing-mark { width: 72px; }
   .writing-actions { align-items: flex-start; flex-direction: column; }
   .contact-list > div { grid-template-columns: 82px minmax(0, 1fr); gap: 10px; }
+  .award-facts { grid-template-columns: 1fr; gap: 10px; }
+  .award-links { align-items: flex-start; flex-direction: column; gap: 3px; }
   .contact-list dd span { display: block; margin: 3px 0 0; }
   .site-footer { grid-template-columns: 1fr; }
   .site-footer > a { justify-self: start; padding: 5px 0; }

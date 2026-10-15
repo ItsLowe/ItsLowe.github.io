@@ -1,6 +1,6 @@
 # Zhiheng Huang (Lowe) — research portfolio website
 
-A responsive, single-page static portfolio for GitHub Pages at `ItsLowe.github.io`. It retains the site's plain HTML/CSS design, research figures and project links. The 12-page MSc Writing Sample includes an added source-introduction page, two original Methodology pages (printed pages 24 and 26), eight original Results pages (printed pages 42–49), and one selected original Bibliography page (printed page 64).
+A responsive, single-page static portfolio for GitHub Pages at `ItsLowe.github.io`. It retains the site's plain HTML/CSS design, research figures and project links. The 17-page MSc Writing Sample includes one source-and-rights cover page, 8 consecutive original Methodology pages (printed pp. 23–30; source PDF pp. 36–43) and 8 consecutive Results pages (printed pp. 40–47; source PDF pp. 53–60). All 16 excerpt pages are reproduced without modification. The full bibliography and intervening source pages remain in the original dissertation.
 
 ## Selected projects
 
@@ -19,3 +19,5 @@ The page retains all five project cards, repository URLs, skip link, semantic la
 ## Attribution and reuse
 
 Project repositories retain their existing source links and map credits. This website has no explicit open-source licence; no blanket licence is granted to third-party materials. The certificate's English text is identified as unofficial. Public display of supplied portfolio materials is based on the user's permission confirmation; permission correspondence was not independently verified.
+
+The Writing Sample is freely readable with no PDF password or copy/print restrictions. Its introductory page and the website clarify authorship and the intended academic-portfolio use. Both award translation PDFs have brief use-and-translation notes; the Chinese original photograph is unmodified. These statements do not supersede third-party rights and do not provide DRM protection.
